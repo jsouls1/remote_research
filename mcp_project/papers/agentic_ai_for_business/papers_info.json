@@ -1,0 +1,62 @@
+{
+  "2504.03693v2": {
+    "title": "Agentic Business Process Management: Practitioner Perspectives on Agent Governance in Business Processes",
+    "authors": [
+      "Hoang Vu",
+      "Nataliia Klievtsova",
+      "Henrik Leopold",
+      "Stefanie Rinderle-Ma",
+      "Timotheus Kampik"
+    ],
+    "summary": "With the rise of generative AI, industry interest in software agents is\ngrowing. Given the stochastic nature of generative AI-based agents, their\neffective and safe deployment in organizations requires robust governance,\nwhich can be facilitated by agentic business process management. However, given\nthe nascence of this new-generation agent notion, it is not clear what BPM\npractitioners consider to be an agent, and what benefits, risks and governance\nchallenges they associate with agent deployments. To investigate how\norganizations can effectively govern AI agents, we conducted a qualitative\nstudy involving semi-structured interviews with 22 BPM practitioners from\ndiverse industries. They anticipate that agents will enhance efficiency,\nimprove data quality, ensure better compliance, and boost scalability through\nautomation, while also cautioning against risks such as bias, over-reliance,\ncybersecurity threats, job displacement, and ambiguous decision-making. To\naddress these challenges, the study presents six key recommendations for the\nresponsible adoption of AI agents: define clear business goals, set legal and\nethical guardrails, establish human-agent collaboration, customize agent\nbehavior, manage risks, and ensure safe integration with fallback options.\nAdditionally, the paper outlines actions to align traditional BPM with agentic\nAI, including balancing human and agent roles, redefining human involvement,\nadapting process structures, and introducing performance metrics. These\ninsights provide a practical foundation for integrating AI agents into business\nprocesses while preserving oversight, flexibility, and trust.",
+    "pdf_url": "http://arxiv.org/pdf/2504.03693v2",
+    "published": "2025-03-23"
+  },
+  "2506.05520v2": {
+    "title": "Toward Data Systems That Are Business Semantic Centric and AI Agents Assisted",
+    "authors": [
+      "Cecil Pang"
+    ],
+    "summary": "Contemporary businesses operate in dynamic environments requiring rapid\nadaptation to achieve goals and maintain competitiveness. Existing data\nplatforms often fall short by emphasizing tools over alignment with business\nneeds, resulting in inefficiencies and delays. To address this gap, I propose\nthe Business Semantics Centric, AI Agents Assisted Data System (BSDS), a\nholistic system that integrates architecture, workflows, and team organization\nto ensure data systems are tailored to business priorities rather than dictated\nby technical constraints. BSDS redefines data systems as dynamic enablers of\nbusiness success, transforming them from passive tools into active drivers of\norganizational growth. BSDS has a modular architecture that comprises curated\ndata linked to business entities, a knowledge base for context-aware AI agents,\nand efficient data pipelines. AI agents play a pivotal role in assisting with\ndata access and system management, reducing human effort, and improving\nscalability. Complementing this architecture, BSDS incorporates workflows\noptimized for both exploratory data analysis and production requirements,\nbalancing speed of delivery with quality assurance. A key innovation of BSDS is\nits incorporation of the human factor. By aligning data team expertise with\nbusiness semantics, BSDS bridges the gap between technical capabilities and\nbusiness needs. Validated through real-world implementation, BSDS accelerates\ntime-to-market for data-driven initiatives, enhances cross-functional\ncollaboration, and provides a scalable blueprint for businesses of all sizes.\nFuture research can build on BSDS to explore optimization strategies using\ncomplex systems and adaptive network theories, as well as developing autonomous\ndata systems leveraging AI agents.",
+    "pdf_url": "http://arxiv.org/pdf/2506.05520v2",
+    "published": "2025-06-05"
+  },
+  "2507.21823v1": {
+    "title": "An Agentic AI for a New Paradigm in Business Process Development",
+    "authors": [
+      "Mohammad Azarijafari",
+      "Luisa Mich",
+      "Michele Missikoff"
+    ],
+    "summary": "Artificial Intelligence agents represent the next major revolution in the\ncontinuous technological evolution of industrial automation. In this paper, we\nintroduce a new approach for business process design and development that\nleverages the capabilities of Agentic AI. Departing from the traditional\ntask-based approach to business process design, we propose an agent-based\nmethod, where agents contribute to the achievement of business goals,\nidentified by a set of business objects. When a single agent cannot fulfill a\ngoal, we have a merge goal that can be achieved through the collaboration of\nmultiple agents. The proposed model leads to a more modular and intelligent\nbusiness process development by organizing it around goals, objects, and\nagents. As a result, this approach enables flexible and context-aware\nautomation in dynamic industrial environments.",
+    "pdf_url": "http://arxiv.org/pdf/2507.21823v1",
+    "published": "2025-07-29"
+  },
+  "2506.17339v2": {
+    "title": "AI is the Strategy: From Agentic AI to Autonomous Business Models onto Strategy in the Age of AI",
+    "authors": [
+      "Ren\u00e9 Bohnsack",
+      "Mickie de Wet"
+    ],
+    "summary": "This article develops the concept of Autonomous Business Models (ABMs) as a\ndistinct managerial and strategic logic in the age of agentic AI. While most\nfirms still operate within human-driven or AI-augmented models, we argue that\nwe are now entering a phase where agentic AI (systems capable of initiating,\ncoordinating, and adapting actions autonomously) can increasingly execute the\ncore mechanisms of value creation, delivery, and capture. This shift reframes\nAI not as a tool to support strategy, but as the strategy itself. Using two\nillustrative cases, getswan.ai, an Israeli startup pursuing autonomy by design,\nand a hypothetical reconfiguration of Ryanair as an AI-driven incumbent, we\ndepict the evolution from augmented to autonomous business models. We show how\nABMs reshape competitive advantage through agentic execution, continuous\nadaptation, and the gradual offloading of human decision-making. This\ntransition introduces new forms of competition between AI-led firms, which we\nterm synthetic competition, where strategic interactions occur at rapid,\nmachine-level speed and scale. It also challenges foundational assumptions in\nstrategy, organizational design, and governance. By positioning agentic AI as\nthe central actor in business model execution, the article invites us to\nrethink strategic management in an era where firms increasingly run themselves.",
+    "pdf_url": "http://arxiv.org/pdf/2506.17339v2",
+    "published": "2025-06-19"
+  },
+  "2505.18878v1": {
+    "title": "CRMArena-Pro: Holistic Assessment of LLM Agents Across Diverse Business Scenarios and Interactions",
+    "authors": [
+      "Kung-Hsiang Huang",
+      "Akshara Prabhakar",
+      "Onkar Thorat",
+      "Divyansh Agarwal",
+      "Prafulla Kumar Choubey",
+      "Yixin Mao",
+      "Silvio Savarese",
+      "Caiming Xiong",
+      "Chien-Sheng Wu"
+    ],
+    "summary": "While AI agents hold transformative potential in business, effective\nperformance benchmarking is hindered by the scarcity of public, realistic\nbusiness data on widely used platforms. Existing benchmarks often lack fidelity\nin their environments, data, and agent-user interactions, with limited coverage\nof diverse business scenarios and industries. To address these gaps, we\nintroduce CRMArena-Pro, a novel benchmark for holistic, realistic assessment of\nLLM agents in diverse professional settings. CRMArena-Pro expands on CRMArena\nwith nineteen expert-validated tasks across sales, service, and 'configure,\nprice, and quote' processes, for both Business-to-Business and\nBusiness-to-Customer scenarios. It distinctively incorporates multi-turn\ninteractions guided by diverse personas and robust confidentiality awareness\nassessments. Experiments reveal leading LLM agents achieve only around 58%\nsingle-turn success on CRMArena-Pro, with performance dropping significantly to\napproximately 35% in multi-turn settings. While Workflow Execution proves more\ntractable for top agents (over 83% single-turn success), other evaluated\nbusiness skills present greater challenges. Furthermore, agents exhibit\nnear-zero inherent confidentiality awareness; though targeted prompting can\nimprove this, it often compromises task performance. These findings highlight a\nsubstantial gap between current LLM capabilities and enterprise demands,\nunderscoring the need for advancements in multi-turn reasoning, confidentiality\nadherence, and versatile skill acquisition.",
+    "pdf_url": "http://arxiv.org/pdf/2505.18878v1",
+    "published": "2025-05-24"
+  }
+}
